@@ -1,6 +1,4 @@
 layout: page
-title: "breaths"
-permalink: /breaths/
 <style>
 body {background-color: black;}
 body {color: white;}
