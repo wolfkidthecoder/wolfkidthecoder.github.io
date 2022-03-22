@@ -24,6 +24,7 @@ Enter your age:
 lalalalaaaaaaaaaaa
 </h1>
 </center><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="http://www.howmanybreaths.com/button.png"/>
 <script>
 var left
 function clicked ()
